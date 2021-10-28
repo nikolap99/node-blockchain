@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "A  node blockchain wallet - tutorial by fireship",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolap99/node-blockchain.git"
+  },
+  "keywords": [],
+  "author": "Nikola Pavlov <nikolapavlov33@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolap99/node-blockchain/issues"
+  },
+  "homepage": "https://github.com/nikolap99/node-blockchain#readme",
+  "devDependencies": {
+    "@types/node": "16.11.6",
+    "typescript": "4.4.4"
+  }
+}
